@@ -27,6 +27,7 @@ public class DepartmentControllerIT {
 	@Autowired
 	private TokenUtil tokenUtil;
 	
+	
 	private String operatorUsername;
 	private String operatorPassword;
 	private String adminUsername;
