@@ -1,11 +1,11 @@
 # Desafio do capítulo 3: Backend parte 3 RESOLVIDO!
 <h4> Implemente as funcionalidades necessárias para que os testes do projeto abaixo passem:<h4>
 
-<p>https://github.com/Cunharodrigues/bds03<p>
+<p>https://github.com/Cunharodrigues/bds03</p>
 
 <h4>Collection do Postman:<h4>
-<p>https://www.getpostman.com/collections/9c19a0ad21eb8a7d864a<p>
-
+<p>https://www.getpostman.com/collections/9c19a0ad21eb8a7d864a</p>
+  
 Este é um sistema de funcionários e departamentos com uma relação N-1 entre eles:
 
 ![11](https://user-images.githubusercontent.com/30321724/143934503-b3c4d1fe-232c-48f9-b850-d44acaf96908.PNG)
